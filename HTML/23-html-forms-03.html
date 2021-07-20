@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms 03</title>
+  </head>
+  <body>
+    <form action="https://google.com" method="GET">
+      <label for="username">Username</label>
+      <input type="text" name="username" id="username" />
+      <br />
+      <br />
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password" />
+      <br />
+      <br />
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email" />
+      <br />
+      <br />
+      <label for="sana">Tug'ilgan sana</label>
+      <input type="date" name="sana" id="sana" />
+      <br />
+      <br />
+      <label for="sudent">Talaba</label>
+      <input type="checkbox" name="sudent" id="student" />
+      <br />
+      <br />
+      <hr />
+      <label for="erkak">Erkak</label>
+      <input type="radio" name="gender" value="male" />
+      <label for="ayol">Ayol</label>
+      <input type="radio" name="gender" value="female" />
+      <br />
+      <br />
+      <label for="passport">Passport</label>
+      <input type="file" name="Passport" id="passport" />
+      <br />
+      <br />
+      <hr />
+      <label for="tajriba">Tajribangiz (yi)</label>
+      <select name="tajriba" id="tajriba">
+        <option value="0">Tajribam yo'q</option>
+        <option value="1">1 yildan kam</option>
+        <option value="2">1 yildan ko'proq</option>
+      </select>
+      <br /><br />
+      <label for="haqida">Siz haqingizda</label> <br />
+      <textarea name="haqida" id="haqida" cols="30" rows="10"></textarea>
+      <br /><br />
+      <button type="submit">Register</button>
+    </form>
+  </body>
+</html>
