@@ -1,0 +1,20 @@
+/* Unversal selector*/
+* {
+  color: royalblue;
+}
+/* Tag selector */
+h1 {
+  color: green;
+}
+/* Property selector*/
+[disabled] {
+  color: red;
+}
+/* Class selector*/
+.kurs-title {
+  color: blue;
+}
+/* ID selector*/
+#kurs-name {
+  color: purple;
+}

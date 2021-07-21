@@ -1,0 +1,15 @@
+p {
+  color: rebeccapurple;
+}
+.stil {
+  color: red;
+}
+#stil {
+  color: blue;
+}
+[disabled] {
+  color: yellow;
+}
+* {
+  font-size: 23px;
+}
