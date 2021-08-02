@@ -1,0 +1,14 @@
+.box1 {
+  margin-bottom: 30px;
+}
+.box2 {
+  margin-top: 20px;
+}
+
+.selector {
+  border-top: 10px solid red;
+  border-left: 4px solid yellowgreen;
+  border-right: 7px solid blue;
+  border-bottom: 8px solid black;
+  margin: 10px 20px 30px 40px;
+}

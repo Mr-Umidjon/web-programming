@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.box {
+  height: 100%;
+  background-color: blue;
+  color: white;
+  width: 200px;
+}

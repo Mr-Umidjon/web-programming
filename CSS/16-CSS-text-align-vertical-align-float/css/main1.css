@@ -1,0 +1,42 @@
+/*Text-align css*/
+.container {
+  border: 1px solid black;
+}
+
+.container span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.box-1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box-2 {
+  width: 100px;
+  height: 150px;
+  background-color: blue;
+}
+
+.box-3 {
+  width: 100px;
+  height: 50px;
+  background-color: yellow;
+}
+
+/*Float css*/
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: right;
+}

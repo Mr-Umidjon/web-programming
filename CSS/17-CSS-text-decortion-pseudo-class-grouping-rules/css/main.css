@@ -1,0 +1,11 @@
+.heading-1 {
+  text-decoration: underline;
+}
+
+.heading-2 {
+  text-decoration: line-through;
+}
+
+.link {
+  text-decoration: none;
+}

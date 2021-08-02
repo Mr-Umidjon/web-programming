@@ -1,0 +1,11 @@
+.box {
+  padding: 20px;
+  background: red;
+  border-width: 5px;
+  border-style: solid;
+  border-color: hotpink;
+  margin: 10px;
+}
+#box2 {
+  background-color: indigo;
+}

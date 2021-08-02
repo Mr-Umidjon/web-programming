@@ -1,0 +1,12 @@
+.heading-1 {
+  background-color: blue;
+  text-align: left;
+}
+.heading-2 {
+  background-color: aqua;
+  text-align: center;
+}
+.heading-3 {
+  background-color: red;
+  text-align: right;
+}

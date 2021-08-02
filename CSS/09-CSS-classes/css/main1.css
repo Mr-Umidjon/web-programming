@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+h1.active {
+  background-color: green;
+  color: white;
+}
+a.active {
+  color: green;
+}

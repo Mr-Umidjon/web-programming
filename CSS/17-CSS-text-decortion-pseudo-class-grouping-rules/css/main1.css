@@ -1,0 +1,8 @@
+.heading-1:hover {
+  background-color: blue;
+  color: white;
+}
+
+.heading-1:active {
+  background-color: red;
+}

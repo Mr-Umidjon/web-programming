@@ -1,0 +1,20 @@
+.to-block {
+  background-color: red;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.to-inline {
+  background-color: rgb(20, 199, 130);
+  display: inline;
+}
+
+.to-inline-block {
+  background-color: blue;
+  display: inline-block;
+  height: 500px;
+}
+
+.to-none {
+  display: none;
+}

@@ -1,0 +1,6 @@
+.paragraph-1 {
+  background-color: turquoise;
+  max-height: 100px;
+  overflow: auto;
+  min-height: 14px;
+}
