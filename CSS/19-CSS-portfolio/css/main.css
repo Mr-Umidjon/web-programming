@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.main-header__brand {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.main-header__brand img {
+  width: 64px;
+}
+
+.main-navigation {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.main-navigation__item {
+  display: inline-block;
+  padding: 10px;
+}
+
+.main-navigation a {
+  color: #05364d;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.main-navigation__item a:hover {
+  color: #efb6df;
+}
+
+.main-navigation__item.active a {
+  color: #efb6df;
+}
