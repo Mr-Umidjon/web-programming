@@ -1,0 +1,4 @@
+print("salom")
+print('assdsfdfddgfgfffg')
+
+
